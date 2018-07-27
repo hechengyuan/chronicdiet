@@ -2,7 +2,7 @@
 
 * [慢性病的营养处方](README.md)
 
-## part 1
+# part 1
 
 * [基础营养学](chapter1/README.md)
     * [蛋白质](chapter1/section1.md)
@@ -13,7 +13,7 @@
     * [植物化学物](chapter1/section6.md)
     * [膳食纤维](chapter1/section7.md)
 
-## part 2
+# part 2
 
 * [食物营养学](chapter2/README.md)
     * [饮食质量影响人体机制](chapter2/section1.md)
@@ -22,7 +22,7 @@
     * [脂肪类食物](chapter2/section4.md)
     * [常见膳食模式](chapter2/section5.md)
 
-## part 3
+# part 3
 
 * [疾病营养学](chapter3/README.md)
     * [CVD](chapter3/section1.md)
